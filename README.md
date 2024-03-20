@@ -6,8 +6,7 @@ To provide a comprehensive evaluation platform, we construct several high-qualit
 Extensive experiments on three modality-missing benchmark datasets show that our method achieves significant performance improvements compared with state-of-the-art methods.
 
 ## Modality-missing Dataset
-![Miss Ratio](./imgs/miss_ratios_staitcs.png)
-
+<img src="./imgs/miss_ratios_staitcs.png" alt="Miss Ratio" width="20%" height="auto">
 
 We will release the dataset and model code step-by-step.
 
