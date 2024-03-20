@@ -6,7 +6,7 @@ To provide a comprehensive evaluation platform, we construct several high-qualit
 Extensive experiments on three modality-missing benchmark datasets show that our method achieves significant performance improvements compared with state-of-the-art methods.
 
 ## Modality-missing Dataset
-<i class="fas fa-newspaper"></i> Modality-missing Dataset is released
+<i class="Modality-missing dataset is released"></i> 
 
 <img src="./imgs/modality_miss_pattern_fig1.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
 
