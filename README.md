@@ -5,6 +5,9 @@ Given one modality-missing scenario, we propose to utilize the available modalit
 To provide a comprehensive evaluation platform, we construct several high-quality benchmark datasets, in which various modality-missing scenarios are considered to simulate real-world challenges.
 Extensive experiments on three modality-missing benchmark datasets show that our method achieves significant performance improvements compared with state-of-the-art methods.
 
+## Modality-missing Dataset
+![Miss Ratio](./imgs/miss_ratios_staitcs)
+
 
 We will release the dataset and model code step-by-step.
 
