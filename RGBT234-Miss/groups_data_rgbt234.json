@@ -1,0 +1,1665 @@
+{
+    "Group1_random_missing": {
+        "missing_function": "random_missing",
+        "sequences": [
+            [
+                "man8",
+                {
+                    "frames": 2584,
+                    "modalities": []
+                }
+            ],
+            [
+                "people1",
+                {
+                    "frames": 1529,
+                    "modalities": []
+                }
+            ],
+            [
+                "kite4",
+                {
+                    "frames": 1400,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingwithbag2",
+                {
+                    "frames": 1277,
+                    "modalities": []
+                }
+            ],
+            [
+                "toy3",
+                {
+                    "frames": 1125,
+                    "modalities": []
+                }
+            ],
+            [
+                "people3",
+                {
+                    "frames": 926,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoperson",
+                {
+                    "frames": 867,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman100",
+                {
+                    "frames": 688,
+                    "modalities": []
+                }
+            ],
+            [
+                "manypeople1",
+                {
+                    "frames": 674,
+                    "modalities": []
+                }
+            ],
+            [
+                "manypeople",
+                {
+                    "frames": 645,
+                    "modalities": []
+                }
+            ],
+            [
+                "notmove",
+                {
+                    "frames": 624,
+                    "modalities": []
+                }
+            ],
+            [
+                "yellowcar",
+                {
+                    "frames": 597,
+                    "modalities": []
+                }
+            ],
+            [
+                "threepeople",
+                {
+                    "frames": 593,
+                    "modalities": []
+                }
+            ],
+            [
+                "manwithbag4",
+                {
+                    "frames": 577,
+                    "modalities": []
+                }
+            ],
+            [
+                "manwithumbrella",
+                {
+                    "frames": 504,
+                    "modalities": []
+                }
+            ],
+            [
+                "together",
+                {
+                    "frames": 499,
+                    "modalities": []
+                }
+            ],
+            [
+                "single1",
+                {
+                    "frames": 488,
+                    "modalities": []
+                }
+            ],
+            [
+                "manonboundary",
+                {
+                    "frames": 450,
+                    "modalities": []
+                }
+            ],
+            [
+                "guidepost",
+                {
+                    "frames": 441,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman89",
+                {
+                    "frames": 434,
+                    "modalities": []
+                }
+            ],
+            [
+                "carnotfar",
+                {
+                    "frames": 418,
+                    "modalities": []
+                }
+            ],
+            [
+                "cycle2",
+                {
+                    "frames": 403,
+                    "modalities": []
+                }
+            ],
+            [
+                "mandrivecar",
+                {
+                    "frames": 391,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman48",
+                {
+                    "frames": 348,
+                    "modalities": []
+                }
+            ],
+            [
+                "mancrossandup",
+                {
+                    "frames": 337,
+                    "modalities": []
+                }
+            ],
+            [
+                "biketwo",
+                {
+                    "frames": 333,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle1",
+                {
+                    "frames": 321,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricyclefaraway",
+                {
+                    "frames": 295,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman2",
+                {
+                    "frames": 288,
+                    "modalities": []
+                }
+            ],
+            [
+                "carLight",
+                {
+                    "frames": 267,
+                    "modalities": []
+                }
+            ],
+            [
+                "manfaraway",
+                {
+                    "frames": 249,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoelecbike1",
+                {
+                    "frames": 238,
+                    "modalities": []
+                }
+            ],
+            [
+                "caraftertree",
+                {
+                    "frames": 230,
+                    "modalities": []
+                }
+            ],
+            [
+                "call",
+                {
+                    "frames": 219,
+                    "modalities": []
+                }
+            ],
+            [
+                "man88",
+                {
+                    "frames": 212,
+                    "modalities": []
+                }
+            ],
+            [
+                "nightcar",
+                {
+                    "frames": 199,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbikewithlight1",
+                {
+                    "frames": 185,
+                    "modalities": []
+                }
+            ],
+            [
+                "tallman",
+                {
+                    "frames": 171,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitecarafterrain",
+                {
+                    "frames": 164,
+                    "modalities": []
+                }
+            ],
+            [
+                "greywoman",
+                {
+                    "frames": 154,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbikewithlight",
+                {
+                    "frames": 137,
+                    "modalities": []
+                }
+            ],
+            [
+                "maningreen2",
+                {
+                    "frames": 126,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanpink",
+                {
+                    "frames": 112,
+                    "modalities": []
+                }
+            ],
+            [
+                "children4",
+                {
+                    "frames": 103,
+                    "modalities": []
+                }
+            ],
+            [
+                "dog11",
+                {
+                    "frames": 87,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingmantiny",
+                {
+                    "frames": 83,
+                    "modalities": []
+                }
+            ],
+            [
+                "dog",
+                {
+                    "frames": 45,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group2_long_term_missing": {
+        "missing_function": "long_term_missing",
+        "sequences": [
+            [
+                "tree3",
+                {
+                    "frames": 1903,
+                    "modalities": []
+                }
+            ],
+            [
+                "playsoccer",
+                {
+                    "frames": 1456,
+                    "modalities": []
+                }
+            ],
+            [
+                "face1",
+                {
+                    "frames": 1335,
+                    "modalities": []
+                }
+            ],
+            [
+                "tree2",
+                {
+                    "frames": 1258,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman1",
+                {
+                    "frames": 1009,
+                    "modalities": []
+                }
+            ],
+            [
+                "manwithluggage",
+                {
+                    "frames": 984,
+                    "modalities": []
+                }
+            ],
+            [
+                "scooter",
+                {
+                    "frames": 916,
+                    "modalities": []
+                }
+            ],
+            [
+                "man2",
+                {
+                    "frames": 746,
+                    "modalities": []
+                }
+            ],
+            [
+                "baby",
+                {
+                    "frames": 659,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanrun",
+                {
+                    "frames": 656,
+                    "modalities": []
+                }
+            ],
+            [
+                "car37",
+                {
+                    "frames": 604,
+                    "modalities": []
+                }
+            ],
+            [
+                "womancross",
+                {
+                    "frames": 602,
+                    "modalities": []
+                }
+            ],
+            [
+                "man4",
+                {
+                    "frames": 589,
+                    "modalities": []
+                }
+            ],
+            [
+                "man24",
+                {
+                    "frames": 558,
+                    "modalities": []
+                }
+            ],
+            [
+                "child4",
+                {
+                    "frames": 524,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingman41",
+                {
+                    "frames": 502,
+                    "modalities": []
+                }
+            ],
+            [
+                "man28",
+                {
+                    "frames": 479,
+                    "modalities": []
+                }
+            ],
+            [
+                "diamond",
+                {
+                    "frames": 454,
+                    "modalities": []
+                }
+            ],
+            [
+                "jump",
+                {
+                    "frames": 444,
+                    "modalities": []
+                }
+            ],
+            [
+                "flower2",
+                {
+                    "frames": 422,
+                    "modalities": []
+                }
+            ],
+            [
+                "hotglass",
+                {
+                    "frames": 417,
+                    "modalities": []
+                }
+            ],
+            [
+                "man23",
+                {
+                    "frames": 403,
+                    "modalities": []
+                }
+            ],
+            [
+                "manwithbag",
+                {
+                    "frames": 387,
+                    "modalities": []
+                }
+            ],
+            [
+                "people",
+                {
+                    "frames": 375,
+                    "modalities": []
+                }
+            ],
+            [
+                "cycle4",
+                {
+                    "frames": 336,
+                    "modalities": []
+                }
+            ],
+            [
+                "bike",
+                {
+                    "frames": 333,
+                    "modalities": []
+                }
+            ],
+            [
+                "push",
+                {
+                    "frames": 329,
+                    "modalities": []
+                }
+            ],
+            [
+                "blueCar",
+                {
+                    "frames": 299,
+                    "modalities": []
+                }
+            ],
+            [
+                "nightthreepeople",
+                {
+                    "frames": 286,
+                    "modalities": []
+                }
+            ],
+            [
+                "man29",
+                {
+                    "frames": 269,
+                    "modalities": []
+                }
+            ],
+            [
+                "bluebike",
+                {
+                    "frames": 261,
+                    "modalities": []
+                }
+            ],
+            [
+                "children2",
+                {
+                    "frames": 239,
+                    "modalities": []
+                }
+            ],
+            [
+                "threewoman2",
+                {
+                    "frames": 229,
+                    "modalities": []
+                }
+            ],
+            [
+                "baketballwaliking",
+                {
+                    "frames": 222,
+                    "modalities": []
+                }
+            ],
+            [
+                "redcar",
+                {
+                    "frames": 218,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbikeinfrontcar",
+                {
+                    "frames": 208,
+                    "modalities": []
+                }
+            ],
+            [
+                "cycle1",
+                {
+                    "frames": 187,
+                    "modalities": []
+                }
+            ],
+            [
+                "bikemove1",
+                {
+                    "frames": 175,
+                    "modalities": []
+                }
+            ],
+            [
+                "twowoman",
+                {
+                    "frames": 161,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbike3",
+                {
+                    "frames": 144,
+                    "modalities": []
+                }
+            ],
+            [
+                "greentruck",
+                {
+                    "frames": 129,
+                    "modalities": []
+                }
+            ],
+            [
+                "afterrain",
+                {
+                    "frames": 123,
+                    "modalities": []
+                }
+            ],
+            [
+                "man69",
+                {
+                    "frames": 120,
+                    "modalities": []
+                }
+            ],
+            [
+                "manout2",
+                {
+                    "frames": 99,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman96",
+                {
+                    "frames": 94,
+                    "modalities": []
+                }
+            ],
+            [
+                "manoccpart",
+                {
+                    "frames": 77,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman6",
+                {
+                    "frames": 77,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group3_swap_missing": {
+        "missing_function": "swap_missing",
+        "sequences": [
+            [
+                "tree5",
+                {
+                    "frames": 2106,
+                    "modalities": []
+                }
+            ],
+            [
+                "toy1",
+                {
+                    "frames": 1693,
+                    "modalities": []
+                }
+            ],
+            [
+                "kettle",
+                {
+                    "frames": 1424,
+                    "modalities": []
+                }
+            ],
+            [
+                "whiteman1",
+                {
+                    "frames": 1143,
+                    "modalities": []
+                }
+            ],
+            [
+                "crouch",
+                {
+                    "frames": 1041,
+                    "modalities": []
+                }
+            ],
+            [
+                "toy4",
+                {
+                    "frames": 990,
+                    "modalities": []
+                }
+            ],
+            [
+                "orangeman1",
+                {
+                    "frames": 921,
+                    "modalities": []
+                }
+            ],
+            [
+                "crossroad",
+                {
+                    "frames": 768,
+                    "modalities": []
+                }
+            ],
+            [
+                "fog",
+                {
+                    "frames": 672,
+                    "modalities": []
+                }
+            ],
+            [
+                "rmo",
+                {
+                    "frames": 657,
+                    "modalities": []
+                }
+            ],
+            [
+                "inglassandmobile",
+                {
+                    "frames": 630,
+                    "modalities": []
+                }
+            ],
+            [
+                "man5",
+                {
+                    "frames": 598,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanleft",
+                {
+                    "frames": 578,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingman20",
+                {
+                    "frames": 569,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingman12",
+                {
+                    "frames": 508,
+                    "modalities": []
+                }
+            ],
+            [
+                "car3",
+                {
+                    "frames": 501,
+                    "modalities": []
+                }
+            ],
+            [
+                "green",
+                {
+                    "frames": 491,
+                    "modalities": []
+                }
+            ],
+            [
+                "oldman",
+                {
+                    "frames": 454,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitecar3",
+                {
+                    "frames": 448,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingnight",
+                {
+                    "frames": 426,
+                    "modalities": []
+                }
+            ],
+            [
+                "walking41",
+                {
+                    "frames": 416,
+                    "modalities": []
+                }
+            ],
+            [
+                "car",
+                {
+                    "frames": 415,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitebag",
+                {
+                    "frames": 391,
+                    "modalities": []
+                }
+            ],
+            [
+                "dog10",
+                {
+                    "frames": 347,
+                    "modalities": []
+                }
+            ],
+            [
+                "graycar2",
+                {
+                    "frames": 345,
+                    "modalities": []
+                }
+            ],
+            [
+                "redmanchange",
+                {
+                    "frames": 330,
+                    "modalities": []
+                }
+            ],
+            [
+                "man22",
+                {
+                    "frames": 329,
+                    "modalities": []
+                }
+            ],
+            [
+                "run",
+                {
+                    "frames": 298,
+                    "modalities": []
+                }
+            ],
+            [
+                "bicyclecity",
+                {
+                    "frames": 282,
+                    "modalities": []
+                }
+            ],
+            [
+                "man45",
+                {
+                    "frames": 265,
+                    "modalities": []
+                }
+            ],
+            [
+                "car41",
+                {
+                    "frames": 254,
+                    "modalities": []
+                }
+            ],
+            [
+                "oldwoman",
+                {
+                    "frames": 234,
+                    "modalities": []
+                }
+            ],
+            [
+                "shoeslight",
+                {
+                    "frames": 234,
+                    "modalities": []
+                }
+            ],
+            [
+                "mancross1",
+                {
+                    "frames": 222,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbikechange2",
+                {
+                    "frames": 211,
+                    "modalities": []
+                }
+            ],
+            [
+                "boundaryandfast",
+                {
+                    "frames": 190,
+                    "modalities": []
+                }
+            ],
+            [
+                "carred",
+                {
+                    "frames": 180,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanwithbag6",
+                {
+                    "frames": 169,
+                    "modalities": []
+                }
+            ],
+            [
+                "maninred",
+                {
+                    "frames": 158,
+                    "modalities": []
+                }
+            ],
+            [
+                "car4",
+                {
+                    "frames": 147,
+                    "modalities": []
+                }
+            ],
+            [
+                "children3",
+                {
+                    "frames": 136,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanfaraway",
+                {
+                    "frames": 127,
+                    "modalities": []
+                }
+            ],
+            [
+                "mancross",
+                {
+                    "frames": 117,
+                    "modalities": []
+                }
+            ],
+            [
+                "oldman2",
+                {
+                    "frames": 103,
+                    "modalities": []
+                }
+            ],
+            [
+                "manontricycle",
+                {
+                    "frames": 99,
+                    "modalities": []
+                }
+            ],
+            [
+                "manwithbasketball",
+                {
+                    "frames": 80,
+                    "modalities": []
+                }
+            ],
+            [
+                "night2",
+                {
+                    "frames": 68,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group4_long_term_and_random_missing": {
+        "missing_function": "long_term_and_random_missing",
+        "sequences": [
+            [
+                "man3",
+                {
+                    "frames": 3627,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingtogether",
+                {
+                    "frames": 1433,
+                    "modalities": []
+                }
+            ],
+            [
+                "redbag",
+                {
+                    "frames": 1390,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoman",
+                {
+                    "frames": 1299,
+                    "modalities": []
+                }
+            ],
+            [
+                "hotkettle",
+                {
+                    "frames": 1080,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoman1",
+                {
+                    "frames": 1001,
+                    "modalities": []
+                }
+            ],
+            [
+                "shake",
+                {
+                    "frames": 847,
+                    "modalities": []
+                }
+            ],
+            [
+                "womaninblackwithbike",
+                {
+                    "frames": 738,
+                    "modalities": []
+                }
+            ],
+            [
+                "stroller",
+                {
+                    "frames": 677,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingwithbag1",
+                {
+                    "frames": 642,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycletwo",
+                {
+                    "frames": 613,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingtogetherright",
+                {
+                    "frames": 601,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbike2",
+                {
+                    "frames": 582,
+                    "modalities": []
+                }
+            ],
+            [
+                "man55",
+                {
+                    "frames": 552,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman99",
+                {
+                    "frames": 546,
+                    "modalities": []
+                }
+            ],
+            [
+                "blackwoman",
+                {
+                    "frames": 498,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle6",
+                {
+                    "frames": 469,
+                    "modalities": []
+                }
+            ],
+            [
+                "manypeople2",
+                {
+                    "frames": 453,
+                    "modalities": []
+                }
+            ],
+            [
+                "cycle3",
+                {
+                    "frames": 436,
+                    "modalities": []
+                }
+            ],
+            [
+                "threeman2",
+                {
+                    "frames": 429,
+                    "modalities": []
+                }
+            ],
+            [
+                "carnotmove",
+                {
+                    "frames": 417,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoman2",
+                {
+                    "frames": 392,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingtogether1",
+                {
+                    "frames": 387,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingwoman",
+                {
+                    "frames": 348,
+                    "modalities": []
+                }
+            ],
+            [
+                "straw",
+                {
+                    "frames": 346,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle9",
+                {
+                    "frames": 332,
+                    "modalities": []
+                }
+            ],
+            [
+                "single3",
+                {
+                    "frames": 325,
+                    "modalities": []
+                }
+            ],
+            [
+                "fog6",
+                {
+                    "frames": 303,
+                    "modalities": []
+                }
+            ],
+            [
+                "baginhand",
+                {
+                    "frames": 280,
+                    "modalities": []
+                }
+            ],
+            [
+                "woamn46",
+                {
+                    "frames": 272,
+                    "modalities": []
+                }
+            ],
+            [
+                "threeman",
+                {
+                    "frames": 254,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle2",
+                {
+                    "frames": 235,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman3",
+                {
+                    "frames": 230,
+                    "modalities": []
+                }
+            ],
+            [
+                "balancebike",
+                {
+                    "frames": 225,
+                    "modalities": []
+                }
+            ],
+            [
+                "trees",
+                {
+                    "frames": 218,
+                    "modalities": []
+                }
+            ],
+            [
+                "car66",
+                {
+                    "frames": 210,
+                    "modalities": []
+                }
+            ],
+            [
+                "bikeman",
+                {
+                    "frames": 177,
+                    "modalities": []
+                }
+            ],
+            [
+                "supbus2",
+                {
+                    "frames": 165,
+                    "modalities": []
+                }
+            ],
+            [
+                "car20",
+                {
+                    "frames": 161,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitecar4",
+                {
+                    "frames": 148,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman",
+                {
+                    "frames": 138,
+                    "modalities": []
+                }
+            ],
+            [
+                "floor-1",
+                {
+                    "frames": 128,
+                    "modalities": []
+                }
+            ],
+            [
+                "raningcar",
+                {
+                    "frames": 109,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingman",
+                {
+                    "frames": 106,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus6",
+                {
+                    "frames": 89,
+                    "modalities": []
+                }
+            ],
+            [
+                "run1",
+                {
+                    "frames": 85,
+                    "modalities": []
+                }
+            ],
+            [
+                "basketball2",
+                {
+                    "frames": 75,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group5_swap_and_random_missing": {
+        "missing_function": "swap_and_random_missing",
+        "sequences": [
+            [
+                "man7",
+                {
+                    "frames": 4140,
+                    "modalities": []
+                }
+            ],
+            [
+                "kite2",
+                {
+                    "frames": 1623,
+                    "modalities": []
+                }
+            ],
+            [
+                "soccer",
+                {
+                    "frames": 1326,
+                    "modalities": []
+                }
+            ],
+            [
+                "soccerinhand",
+                {
+                    "frames": 1168,
+                    "modalities": []
+                }
+            ],
+            [
+                "rainingwaliking",
+                {
+                    "frames": 1011,
+                    "modalities": []
+                }
+            ],
+            [
+                "dog1",
+                {
+                    "frames": 983,
+                    "modalities": []
+                }
+            ],
+            [
+                "mobile",
+                {
+                    "frames": 900,
+                    "modalities": []
+                }
+            ],
+            [
+                "luggage",
+                {
+                    "frames": 733,
+                    "modalities": []
+                }
+            ],
+            [
+                "twowoman1",
+                {
+                    "frames": 684,
+                    "modalities": []
+                }
+            ],
+            [
+                "walkingman1",
+                {
+                    "frames": 648,
+                    "modalities": []
+                }
+            ],
+            [
+                "child3",
+                {
+                    "frames": 621,
+                    "modalities": []
+                }
+            ],
+            [
+                "flower1",
+                {
+                    "frames": 596,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitesuv",
+                {
+                    "frames": 578,
+                    "modalities": []
+                }
+            ],
+            [
+                "takeout",
+                {
+                    "frames": 576,
+                    "modalities": []
+                }
+            ],
+            [
+                "man9",
+                {
+                    "frames": 502,
+                    "modalities": []
+                }
+            ],
+            [
+                "manafterrain",
+                {
+                    "frames": 492,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbike10",
+                {
+                    "frames": 463,
+                    "modalities": []
+                }
+            ],
+            [
+                "glass",
+                {
+                    "frames": 453,
+                    "modalities": []
+                }
+            ],
+            [
+                "man26",
+                {
+                    "frames": 449,
+                    "modalities": []
+                }
+            ],
+            [
+                "woman4",
+                {
+                    "frames": 424,
+                    "modalities": []
+                }
+            ],
+            [
+                "maninglass",
+                {
+                    "frames": 419,
+                    "modalities": []
+                }
+            ],
+            [
+                "man68",
+                {
+                    "frames": 393,
+                    "modalities": []
+                }
+            ],
+            [
+                "soccer2",
+                {
+                    "frames": 379,
+                    "modalities": []
+                }
+            ],
+            [
+                "walking40",
+                {
+                    "frames": 379,
+                    "modalities": []
+                }
+            ],
+            [
+                "manlight",
+                {
+                    "frames": 339,
+                    "modalities": []
+                }
+            ],
+            [
+                "manup",
+                {
+                    "frames": 334,
+                    "modalities": []
+                }
+            ],
+            [
+                "child1",
+                {
+                    "frames": 319,
+                    "modalities": []
+                }
+            ],
+            [
+                "aftertree",
+                {
+                    "frames": 313,
+                    "modalities": []
+                }
+            ],
+            [
+                "greyman",
+                {
+                    "frames": 282,
+                    "modalities": []
+                }
+            ],
+            [
+                "glass2",
+                {
+                    "frames": 266,
+                    "modalities": []
+                }
+            ],
+            [
+                "manonelecbike",
+                {
+                    "frames": 249,
+                    "modalities": []
+                }
+            ],
+            [
+                "redcar2",
+                {
+                    "frames": 243,
+                    "modalities": []
+                }
+            ],
+            [
+                "supbus",
+                {
+                    "frames": 230,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle",
+                {
+                    "frames": 225,
+                    "modalities": []
+                }
+            ],
+            [
+                "car10",
+                {
+                    "frames": 212,
+                    "modalities": []
+                }
+            ],
+            [
+                "run2",
+                {
+                    "frames": 207,
+                    "modalities": []
+                }
+            ],
+            [
+                "whitecar",
+                {
+                    "frames": 180,
+                    "modalities": []
+                }
+            ],
+            [
+                "maninblack",
+                {
+                    "frames": 177,
+                    "modalities": []
+                }
+            ],
+            [
+                "nightrun",
+                {
+                    "frames": 160,
+                    "modalities": []
+                }
+            ],
+            [
+                "woamnwithbike",
+                {
+                    "frames": 146,
+                    "modalities": []
+                }
+            ],
+            [
+                "child",
+                {
+                    "frames": 140,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbike",
+                {
+                    "frames": 126,
+                    "modalities": []
+                }
+            ],
+            [
+                "cycle5",
+                {
+                    "frames": 114,
+                    "modalities": []
+                }
+            ],
+            [
+                "womanred",
+                {
+                    "frames": 102,
+                    "modalities": []
+                }
+            ],
+            [
+                "elecbikewithhat",
+                {
+                    "frames": 95,
+                    "modalities": []
+                }
+            ],
+            [
+                "twoelecbike",
+                {
+                    "frames": 84,
+                    "modalities": []
+                }
+            ]
+        ]
+    }
+}

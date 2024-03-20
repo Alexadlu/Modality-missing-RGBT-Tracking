@@ -1,0 +1,1259 @@
+{
+    "Group1_random_missing": {
+        "missing_function": "random_missing",
+        "sequences": [
+            [
+                "car_022",
+                {
+                    "frames": 11625,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_149",
+                {
+                    "frames": 9776,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_017",
+                {
+                    "frames": 9019,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_155",
+                {
+                    "frames": 8865,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_028",
+                {
+                    "frames": 8266,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_127",
+                {
+                    "frames": 7105,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_005",
+                {
+                    "frames": 6340,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_032",
+                {
+                    "frames": 5893,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_020",
+                {
+                    "frames": 5860,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_164",
+                {
+                    "frames": 4705,
+                    "modalities": []
+                }
+            ],
+            [
+                "cable_002",
+                {
+                    "frames": 4222,
+                    "modalities": []
+                }
+            ],
+            [
+                "train_004",
+                {
+                    "frames": 4014,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_006",
+                {
+                    "frames": 3769,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_007",
+                {
+                    "frames": 3551,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_080",
+                {
+                    "frames": 2929,
+                    "modalities": []
+                }
+            ],
+            [
+                "truck_008",
+                {
+                    "frames": 2737,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_014",
+                {
+                    "frames": 2719,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_130",
+                {
+                    "frames": 2364,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_095",
+                {
+                    "frames": 2282,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_154",
+                {
+                    "frames": 1889,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_196",
+                {
+                    "frames": 1807,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_004",
+                {
+                    "frames": 1535,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_001",
+                {
+                    "frames": 1487,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_007",
+                {
+                    "frames": 1291,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_110",
+                {
+                    "frames": 1276,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_005",
+                {
+                    "frames": 1093,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_075",
+                {
+                    "frames": 1075,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_010",
+                {
+                    "frames": 926,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_098",
+                {
+                    "frames": 789,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_007",
+                {
+                    "frames": 692,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_097",
+                {
+                    "frames": 661,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_010",
+                {
+                    "frames": 615,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_129",
+                {
+                    "frames": 497,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_011",
+                {
+                    "frames": 463,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_064",
+                {
+                    "frames": 343,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_121",
+                {
+                    "frames": 274,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group2_long_term_missing": {
+        "missing_function": "long_term_missing",
+        "sequences": [
+            [
+                "pedestrian_215",
+                {
+                    "frames": 15532,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_063",
+                {
+                    "frames": 10500,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_025",
+                {
+                    "frames": 9040,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_192",
+                {
+                    "frames": 8346,
+                    "modalities": []
+                }
+            ],
+            [
+                "c-vehicle_003",
+                {
+                    "frames": 7520,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_156",
+                {
+                    "frames": 7417,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_061",
+                {
+                    "frames": 6910,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_153",
+                {
+                    "frames": 6049,
+                    "modalities": []
+                }
+            ],
+            [
+                "train_003",
+                {
+                    "frames": 5779,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_023",
+                {
+                    "frames": 5173,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_038",
+                {
+                    "frames": 4613,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_072",
+                {
+                    "frames": 4132,
+                    "modalities": []
+                }
+            ],
+            [
+                "bike_005",
+                {
+                    "frames": 3583,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_161",
+                {
+                    "frames": 3055,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_012",
+                {
+                    "frames": 2852,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_004",
+                {
+                    "frames": 2809,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_021",
+                {
+                    "frames": 2552,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_060",
+                {
+                    "frames": 2382,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_143",
+                {
+                    "frames": 2028,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_077",
+                {
+                    "frames": 1945,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_062",
+                {
+                    "frames": 1647,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_026",
+                {
+                    "frames": 1551,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_034",
+                {
+                    "frames": 1405,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_109",
+                {
+                    "frames": 1316,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_142",
+                {
+                    "frames": 1248,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_079",
+                {
+                    "frames": 1076,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_044",
+                {
+                    "frames": 1009,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_056",
+                {
+                    "frames": 1003,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_122",
+                {
+                    "frames": 889,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_027",
+                {
+                    "frames": 723,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_033",
+                {
+                    "frames": 665,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_036",
+                {
+                    "frames": 613,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_017",
+                {
+                    "frames": 583,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_111",
+                {
+                    "frames": 465,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_059",
+                {
+                    "frames": 337,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group3_swap_missing": {
+        "missing_function": "swap_missing",
+        "sequences": [
+            [
+                "excavator_001",
+                {
+                    "frames": 25295,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_029",
+                {
+                    "frames": 9122,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_058",
+                {
+                    "frames": 8899,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_134",
+                {
+                    "frames": 8401,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_010",
+                {
+                    "frames": 8089,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_037",
+                {
+                    "frames": 7049,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_023",
+                {
+                    "frames": 6319,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_183",
+                {
+                    "frames": 6235,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_163",
+                {
+                    "frames": 5431,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_046",
+                {
+                    "frames": 5431,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_230",
+                {
+                    "frames": 4584,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_064",
+                {
+                    "frames": 4065,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_050",
+                {
+                    "frames": 3949,
+                    "modalities": []
+                }
+            ],
+            [
+                "bike_006",
+                {
+                    "frames": 3552,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_031",
+                {
+                    "frames": 2935,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_006",
+                {
+                    "frames": 2756,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_151",
+                {
+                    "frames": 2521,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_148",
+                {
+                    "frames": 2465,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_067",
+                {
+                    "frames": 1968,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_016",
+                {
+                    "frames": 1967,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_211",
+                {
+                    "frames": 1849,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_052",
+                {
+                    "frames": 1627,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_088",
+                {
+                    "frames": 1473,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_185",
+                {
+                    "frames": 1338,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_012",
+                {
+                    "frames": 1153,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_016",
+                {
+                    "frames": 1099,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_112",
+                {
+                    "frames": 1073,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_041",
+                {
+                    "frames": 961,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_019",
+                {
+                    "frames": 785,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_128",
+                {
+                    "frames": 777,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_089",
+                {
+                    "frames": 637,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_113",
+                {
+                    "frames": 585,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_018",
+                {
+                    "frames": 497,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_005",
+                {
+                    "frames": 471,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_120",
+                {
+                    "frames": 407,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group4_long_term_and_random_missing": {
+        "missing_function": "long_term_and_random_missing",
+        "sequences": [
+            [
+                "ship_001",
+                {
+                    "frames": 16414,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_035",
+                {
+                    "frames": 9123,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_019",
+                {
+                    "frames": 9035,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_027",
+                {
+                    "frames": 8340,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_056",
+                {
+                    "frames": 7567,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_032",
+                {
+                    "frames": 7229,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_027",
+                {
+                    "frames": 6307,
+                    "modalities": []
+                }
+            ],
+            [
+                "truck_007",
+                {
+                    "frames": 6274,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_229",
+                {
+                    "frames": 5667,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_162",
+                {
+                    "frames": 5413,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_123",
+                {
+                    "frames": 4400,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_026",
+                {
+                    "frames": 4128,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_051",
+                {
+                    "frames": 4002,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_195",
+                {
+                    "frames": 3333,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_213",
+                {
+                    "frames": 2910,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_152",
+                {
+                    "frames": 2793,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_123",
+                {
+                    "frames": 2640,
+                    "modalities": []
+                }
+            ],
+            [
+                "truck_004",
+                {
+                    "frames": 2313,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_209",
+                {
+                    "frames": 1994,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_173",
+                {
+                    "frames": 1938,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_101",
+                {
+                    "frames": 1686,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_117",
+                {
+                    "frames": 1518,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_112",
+                {
+                    "frames": 1425,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_042",
+                {
+                    "frames": 1309,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_002",
+                {
+                    "frames": 1263,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_006",
+                {
+                    "frames": 1132,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_077",
+                {
+                    "frames": 1069,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_007",
+                {
+                    "frames": 935,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_015",
+                {
+                    "frames": 841,
+                    "modalities": []
+                }
+            ],
+            [
+                "bike_003",
+                {
+                    "frames": 704,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_234",
+                {
+                    "frames": 647,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_007",
+                {
+                    "frames": 599,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_004",
+                {
+                    "frames": 539,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_008",
+                {
+                    "frames": 453,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_065",
+                {
+                    "frames": 412,
+                    "modalities": []
+                }
+            ]
+        ]
+    },
+    "Group5_swap_and_random_missing": {
+        "missing_function": "swap_and_random_missing",
+        "sequences": [
+            [
+                "bus_001",
+                {
+                    "frames": 10958,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_060",
+                {
+                    "frames": 9118,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_004",
+                {
+                    "frames": 9105,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_028",
+                {
+                    "frames": 8760,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_003",
+                {
+                    "frames": 7539,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_217",
+                {
+                    "frames": 7304,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_179",
+                {
+                    "frames": 6491,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_138",
+                {
+                    "frames": 5899,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_136",
+                {
+                    "frames": 5505,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_006",
+                {
+                    "frames": 4761,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_227",
+                {
+                    "frames": 4319,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_150",
+                {
+                    "frames": 4026,
+                    "modalities": []
+                }
+            ],
+            [
+                "bike_008",
+                {
+                    "frames": 3703,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_079",
+                {
+                    "frames": 3224,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_020",
+                {
+                    "frames": 2827,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_006",
+                {
+                    "frames": 2769,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_053",
+                {
+                    "frames": 2485,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_049",
+                {
+                    "frames": 2478,
+                    "modalities": []
+                }
+            ],
+            [
+                "animal_001",
+                {
+                    "frames": 2047,
+                    "modalities": []
+                }
+            ],
+            [
+                "elebike_011",
+                {
+                    "frames": 1850,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_019",
+                {
+                    "frames": 1840,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_132",
+                {
+                    "frames": 1576,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_139",
+                {
+                    "frames": 1441,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_010",
+                {
+                    "frames": 1288,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_053",
+                {
+                    "frames": 1190,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_093",
+                {
+                    "frames": 1081,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_119",
+                {
+                    "frames": 1066,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_110",
+                {
+                    "frames": 953,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_106",
+                {
+                    "frames": 856,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_005",
+                {
+                    "frames": 739,
+                    "modalities": []
+                }
+            ],
+            [
+                "pedestrian_109",
+                {
+                    "frames": 664,
+                    "modalities": []
+                }
+            ],
+            [
+                "car_096",
+                {
+                    "frames": 589,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_008",
+                {
+                    "frames": 499,
+                    "modalities": []
+                }
+            ],
+            [
+                "tricycle_009",
+                {
+                    "frames": 470,
+                    "modalities": []
+                }
+            ],
+            [
+                "bus_019",
+                {
+                    "frames": 409,
+                    "modalities": []
+                }
+            ]
+        ]
+    }
+}

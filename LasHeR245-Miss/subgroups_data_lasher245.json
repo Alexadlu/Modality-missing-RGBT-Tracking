@@ -1,0 +1,2047 @@
+{
+    "Group1_random_missing": {
+        "Group1_random_missing_SubGroup1": {
+            "missing_function": "random_missing",
+            "sequences": [
+                [
+                    "midredboy",
+                    {
+                        "frames": 7309,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "right5thflag",
+                    {
+                        "frames": 1916,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "leftchair",
+                    {
+                        "frames": 1400,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "boy2treesfindbike",
+                    {
+                        "frames": 1083,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whiteskirtgirlcomingfromgoal",
+                    {
+                        "frames": 818,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "redmidboy",
+                    {
+                        "frames": 662,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "bottlebetweenboy`sfeet",
+                    {
+                        "frames": 506,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "ab_blkskirtgirl",
+                    {
+                        "frames": 488,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightbike-gai",
+                    {
+                        "frames": 416,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whiterunningboy",
+                    {
+                        "frames": 346,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "boytakingplate2left",
+                    {
+                        "frames": 262,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "bluegirlbiketurn",
+                    {
+                        "frames": 222,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blkmoto2north",
+                    {
+                        "frames": 187,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blktribikecome",
+                    {
+                        "frames": 142,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "3bike1",
+                    {
+                        "frames": 117,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "catbrown2",
+                    {
+                        "frames": 91,
+                        "modalities": []
+                    },
+                    0.3
+                ]
+            ]
+        },
+        "Group1_random_missing_SubGroup2": {
+            "missing_function": "random_missing",
+            "sequences": [
+                [
+                    "boylefttheNo_9boy",
+                    {
+                        "frames": 4921,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyaroundtrees",
+                    {
+                        "frames": 2469,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blkboystand",
+                    {
+                        "frames": 1436,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "drillmaster1117",
+                    {
+                        "frames": 1117,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "leftboyoutofthetroop",
+                    {
+                        "frames": 744,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "redroadlatboy",
+                    {
+                        "frames": 730,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "umbrellawillbefold",
+                    {
+                        "frames": 566,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "carwillturn",
+                    {
+                        "frames": 481,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "runningcameragirl",
+                    {
+                        "frames": 386,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "girlinrain",
+                    {
+                        "frames": 312,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "guardunderthecolumn",
+                    {
+                        "frames": 282,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bike2left",
+                    {
+                        "frames": 257,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boy2trees",
+                    {
+                        "frames": 203,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "truckgonorth",
+                    {
+                        "frames": 152,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "whitecarturnright",
+                    {
+                        "frames": 103,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "carlight2",
+                    {
+                        "frames": 70,
+                        "modalities": []
+                    },
+                    0.6
+                ]
+            ]
+        },
+        "Group1_random_missing_SubGroup3": {
+            "missing_function": "random_missing",
+            "sequences": [
+                [
+                    "1stcol4thboy",
+                    {
+                        "frames": 3377,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boy2buildings",
+                    {
+                        "frames": 1788,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "besom3",
+                    {
+                        "frames": 1223,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftunderbasket",
+                    {
+                        "frames": 986,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boy`headwithouthat",
+                    {
+                        "frames": 851,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bike",
+                    {
+                        "frames": 651,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "shinycarcoming2",
+                    {
+                        "frames": 602,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyplayphone",
+                    {
+                        "frames": 436,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "yellowskirt",
+                    {
+                        "frames": 361,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyinlight",
+                    {
+                        "frames": 319,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "blkboybetweenredandwhite",
+                    {
+                        "frames": 302,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "3pinkleft",
+                    {
+                        "frames": 234,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "3men",
+                    {
+                        "frames": 181,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "redtricycle",
+                    {
+                        "frames": 168,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "yellowgirl118",
+                    {
+                        "frames": 118,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "womanback2car",
+                    {
+                        "frames": 95,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "whitecarturnleft",
+                    {
+                        "frames": 57,
+                        "modalities": []
+                    },
+                    0.9
+                ]
+            ]
+        }
+    },
+    "Group2_long_term_missing": {
+        "Group2_long_term_missing_SubGroup1": {
+            "missing_function": "long_term_missing",
+            "sequences": [
+                [
+                    "1strowrightgirl3540",
+                    {
+                        "frames": 3540,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "leftmirror",
+                    {
+                        "frames": 1879,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightbottlecomes",
+                    {
+                        "frames": 1388,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightdarksingleman",
+                    {
+                        "frames": 1133,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "darkouterwhiteboy",
+                    {
+                        "frames": 749,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightgirltakingcup",
+                    {
+                        "frames": 668,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whitebikebelow",
+                    {
+                        "frames": 566,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "7rightorangegirl",
+                    {
+                        "frames": 487,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "shinycarcoming",
+                    {
+                        "frames": 359,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "4thboywithwhite",
+                    {
+                        "frames": 315,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "2runseven",
+                    {
+                        "frames": 270,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "moto",
+                    {
+                        "frames": 254,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "silvercarturn",
+                    {
+                        "frames": 201,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whitesuvturn",
+                    {
+                        "frames": 137,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "carcomeonlight",
+                    {
+                        "frames": 101,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "couple",
+                    {
+                        "frames": 101,
+                        "modalities": []
+                    },
+                    0.3
+                ]
+            ]
+        },
+        "Group2_long_term_missing_SubGroup2": {
+            "missing_function": "long_term_missing",
+            "sequences": [
+                [
+                    "blkboylefttheNo_21",
+                    {
+                        "frames": 6983,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "midgreyboyrunningcoming",
+                    {
+                        "frames": 3226,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "ballshootatthebasket3times",
+                    {
+                        "frames": 1505,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "girlof2leaders",
+                    {
+                        "frames": 986,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boywaitgirl",
+                    {
+                        "frames": 965,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boywalkinginsnow2",
+                    {
+                        "frames": 658,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "rightcomingstrongboy",
+                    {
+                        "frames": 604,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyleftblkrunning2crowd",
+                    {
+                        "frames": 426,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "ab_girlcrossroad",
+                    {
+                        "frames": 388,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blkboytakesumbrella",
+                    {
+                        "frames": 340,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyfromdark",
+                    {
+                        "frames": 285,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bikeboyturntimes",
+                    {
+                        "frames": 243,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blkboyback",
+                    {
+                        "frames": 171,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bikeboyturn",
+                    {
+                        "frames": 155,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blackcarturn",
+                    {
+                        "frames": 126,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "minibus",
+                    {
+                        "frames": 78,
+                        "modalities": []
+                    },
+                    0.6
+                ]
+            ]
+        },
+        "Group2_long_term_missing_SubGroup3": {
+            "missing_function": "long_term_missing",
+            "sequences": [
+                [
+                    "boyshead9684",
+                    {
+                        "frames": 9684,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "right2ndflagformath",
+                    {
+                        "frames": 1750,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "turning1strowleft2ndboy",
+                    {
+                        "frames": 1171,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "lastleftgirl",
+                    {
+                        "frames": 1116,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bikeboyintodark",
+                    {
+                        "frames": 826,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "whiteboyrightcoccergoal",
+                    {
+                        "frames": 691,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "ab_whiteboywithbluebag",
+                    {
+                        "frames": 518,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "darktreesboy",
+                    {
+                        "frames": 503,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "4men",
+                    {
+                        "frames": 414,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyoncall",
+                    {
+                        "frames": 310,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "10runone",
+                    {
+                        "frames": 304,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boy2basketballground",
+                    {
+                        "frames": 206,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyruninsnow",
+                    {
+                        "frames": 182,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftrushingboy",
+                    {
+                        "frames": 148,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bikeboy",
+                    {
+                        "frames": 113,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "motocomeonlight",
+                    {
+                        "frames": 84,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "basketballathand",
+                    {
+                        "frames": 64,
+                        "modalities": []
+                    },
+                    0.9
+                ]
+            ]
+        }
+    },
+    "Group3_swap_missing": {
+        "Group3_swap_missing_SubGroup1": {
+            "missing_function": "swap_missing",
+            "sequences": [
+                [
+                    "leftbottle2hang",
+                    {
+                        "frames": 3991,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "girlunderthestreetlamp",
+                    {
+                        "frames": 2858,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "catbrownback2bush",
+                    {
+                        "frames": 1343,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightcameraman",
+                    {
+                        "frames": 1050,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "basketball849",
+                    {
+                        "frames": 849,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "swan_0109",
+                    {
+                        "frames": 664,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "lefterbike",
+                    {
+                        "frames": 566,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightboy504",
+                    {
+                        "frames": 504,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "carcomingfromlight",
+                    {
+                        "frames": 391,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightbluewhite",
+                    {
+                        "frames": 353,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "bikegoindark",
+                    {
+                        "frames": 284,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blackgirl",
+                    {
+                        "frames": 217,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "belowdarkgirl",
+                    {
+                        "frames": 199,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rainycarcome_ab",
+                    {
+                        "frames": 157,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "carbehindtrees",
+                    {
+                        "frames": 114,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blkboydown",
+                    {
+                        "frames": 82,
+                        "modalities": []
+                    },
+                    0.3
+                ]
+            ]
+        },
+        "Group3_swap_missing_SubGroup2": {
+            "missing_function": "swap_missing",
+            "sequences": [
+                [
+                    "leftblkTboy",
+                    {
+                        "frames": 3650,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "lefthyalinepaperfrontpants",
+                    {
+                        "frames": 1802,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "large",
+                    {
+                        "frames": 1475,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "drillmasterfollowingatright",
+                    {
+                        "frames": 982,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "1strowleftboyturning",
+                    {
+                        "frames": 732,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "standblkboy",
+                    {
+                        "frames": 683,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "hugboy",
+                    {
+                        "frames": 542,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyscomeleft",
+                    {
+                        "frames": 464,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "AQgirlwalkinrain",
+                    {
+                        "frames": 372,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "umbrella",
+                    {
+                        "frames": 319,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "redcarcominginlight",
+                    {
+                        "frames": 262,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "2girlup",
+                    {
+                        "frames": 238,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "umbreboyoncall",
+                    {
+                        "frames": 192,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bikeinrain",
+                    {
+                        "frames": 140,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "mototurneast",
+                    {
+                        "frames": 122,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "basketboy",
+                    {
+                        "frames": 85,
+                        "modalities": []
+                    },
+                    0.6
+                ]
+            ]
+        },
+        "Group3_swap_missing_SubGroup3": {
+            "missing_function": "swap_missing",
+            "sequences": [
+                [
+                    "broom",
+                    {
+                        "frames": 9538,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "lefthyalinepaper2rgb",
+                    {
+                        "frames": 1905,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "pinkwithblktopcup",
+                    {
+                        "frames": 1270,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "girlafterglassdoor",
+                    {
+                        "frames": 1130,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "shinybikeboy2left",
+                    {
+                        "frames": 832,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "darkgirl",
+                    {
+                        "frames": 613,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "blkboyhead",
+                    {
+                        "frames": 556,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "blackboy",
+                    {
+                        "frames": 432,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "blueboy421",
+                    {
+                        "frames": 421,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "girlrightthewautress",
+                    {
+                        "frames": 308,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "girllongskirt",
+                    {
+                        "frames": 304,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftgirl'swhitebag",
+                    {
+                        "frames": 251,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftopenexersicebook",
+                    {
+                        "frames": 170,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "11leftboy",
+                    {
+                        "frames": 152,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "3thmoto",
+                    {
+                        "frames": 104,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "motowithbluetop",
+                    {
+                        "frames": 95,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "lowerfoamboard",
+                    {
+                        "frames": 33,
+                        "modalities": []
+                    },
+                    0.9
+                ]
+            ]
+        }
+    },
+    "Group4_long_term_and_random_missing": {
+        "Group4_long_term_and_random_missing_SubGroup1": {
+            "missing_function": "long_term_and_random_missing",
+            "sequences": [
+                [
+                    "midboyNo_9",
+                    {
+                        "frames": 7258,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "littelbabycryingforahug",
+                    {
+                        "frames": 1676,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "boyinsnowfield3",
+                    {
+                        "frames": 1418,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "firstexercisebook",
+                    {
+                        "frames": 1160,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blkcaratfrontbluebus",
+                    {
+                        "frames": 764,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "small-gai",
+                    {
+                        "frames": 662,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blkhairgirltakingblkbag",
+                    {
+                        "frames": 564,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "midrunboywithwhite",
+                    {
+                        "frames": 442,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "ab_bikeoccluded",
+                    {
+                        "frames": 353,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blueboy",
+                    {
+                        "frames": 330,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "11runtwo",
+                    {
+                        "frames": 295,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "2girl",
+                    {
+                        "frames": 222,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "blkstandboy",
+                    {
+                        "frames": 190,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "bike2trees",
+                    {
+                        "frames": 146,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "redetricycle",
+                    {
+                        "frames": 104,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whitecarcomeinrain",
+                    {
+                        "frames": 84,
+                        "modalities": []
+                    },
+                    0.3
+                ]
+            ]
+        },
+        "Group4_long_term_and_random_missing_SubGroup2": {
+            "missing_function": "long_term_and_random_missing",
+            "sequences": [
+                [
+                    "ab_bolstershaking",
+                    {
+                        "frames": 3247,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "leftuphand",
+                    {
+                        "frames": 1981,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bluebuscoming",
+                    {
+                        "frames": 1437,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "mandownstair",
+                    {
+                        "frames": 1096,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "leftfarboycomingpicktheball",
+                    {
+                        "frames": 903,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "waitresscoming",
+                    {
+                        "frames": 680,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "whitegirltakingchopsticks",
+                    {
+                        "frames": 549,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyatdoorturnright",
+                    {
+                        "frames": 494,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "whiteridingbike",
+                    {
+                        "frames": 425,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "mototaking2boys306",
+                    {
+                        "frames": 306,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boy`sheadingreycol",
+                    {
+                        "frames": 269,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "farfatboy",
+                    {
+                        "frames": 254,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "1boycoming",
+                    {
+                        "frames": 174,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "girl2left3man1",
+                    {
+                        "frames": 151,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "baggirl",
+                    {
+                        "frames": 111,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "caronlight",
+                    {
+                        "frames": 86,
+                        "modalities": []
+                    },
+                    0.6
+                ]
+            ]
+        },
+        "Group4_long_term_and_random_missing_SubGroup3": {
+            "missing_function": "long_term_and_random_missing",
+            "sequences": [
+                [
+                    "rightblkboy4386",
+                    {
+                        "frames": 4386,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "ab_rightlowerredcup_quezhen",
+                    {
+                        "frames": 1806,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftboy2jointhe4",
+                    {
+                        "frames": 1244,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyinplatform",
+                    {
+                        "frames": 975,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "3rdgrouplastboy",
+                    {
+                        "frames": 832,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "whitecarturn683",
+                    {
+                        "frames": 683,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "girl`sblkbag",
+                    {
+                        "frames": 571,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bikeboyright",
+                    {
+                        "frames": 467,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "boyss",
+                    {
+                        "frames": 375,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "raincarturn",
+                    {
+                        "frames": 334,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bawgirl",
+                    {
+                        "frames": 280,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "minibusgoes2left",
+                    {
+                        "frames": 214,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "ab_pingpongball2",
+                    {
+                        "frames": 194,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "carcominginlight",
+                    {
+                        "frames": 155,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "motogoesaloongS",
+                    {
+                        "frames": 127,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "carlightcome2",
+                    {
+                        "frames": 93,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftpingpongball",
+                    {
+                        "frames": 66,
+                        "modalities": []
+                    },
+                    0.9
+                ]
+            ]
+        }
+    },
+    "Group5_swap_and_random_missing": {
+        "Group5_swap_and_random_missing_SubGroup1": {
+            "missing_function": "swap_and_random_missing",
+            "sequences": [
+                [
+                    "hyalinepaperfrontface",
+                    {
+                        "frames": 4317,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "boyride2path",
+                    {
+                        "frames": 1840,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "boytakingbasketballfollowing",
+                    {
+                        "frames": 1432,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "girlfromlight_quezhen",
+                    {
+                        "frames": 1033,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "1blackteacher",
+                    {
+                        "frames": 851,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "middrillmaster",
+                    {
+                        "frames": 664,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "manoncall",
+                    {
+                        "frames": 521,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "umbrellawillopen",
+                    {
+                        "frames": 490,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "rightblkfatboyleftwhite",
+                    {
+                        "frames": 386,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "3rdfatboy",
+                    {
+                        "frames": 331,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "mansimiliar",
+                    {
+                        "frames": 273,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "mangetsoff",
+                    {
+                        "frames": 254,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whiteofboys",
+                    {
+                        "frames": 203,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "whitefargirl",
+                    {
+                        "frames": 155,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "carturn117",
+                    {
+                        "frames": 117,
+                        "modalities": []
+                    },
+                    0.3
+                ],
+                [
+                    "AQtruck2north",
+                    {
+                        "frames": 95,
+                        "modalities": []
+                    },
+                    0.3
+                ]
+            ]
+        },
+        "Group5_swap_and_random_missing_SubGroup2": {
+            "missing_function": "swap_and_random_missing",
+            "sequences": [
+                [
+                    "blkboy`shead",
+                    {
+                        "frames": 12862,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "leftmirrorlikesky",
+                    {
+                        "frames": 2265,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "girldownstairfromlight",
+                    {
+                        "frames": 1217,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "foldedfolderatlefthand",
+                    {
+                        "frames": 1146,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boydownplatform",
+                    {
+                        "frames": 751,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyunder2baskets",
+                    {
+                        "frames": 613,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "whitegirlinlight",
+                    {
+                        "frames": 589,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "midof3girls",
+                    {
+                        "frames": 439,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "midblkgirl",
+                    {
+                        "frames": 353,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blkgirlumbrella",
+                    {
+                        "frames": 342,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "blackboyoncall",
+                    {
+                        "frames": 295,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "rightbike",
+                    {
+                        "frames": 225,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "bikefromlight",
+                    {
+                        "frames": 172,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "biketurnright",
+                    {
+                        "frames": 131,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "boyaftertree",
+                    {
+                        "frames": 102,
+                        "modalities": []
+                    },
+                    0.6
+                ],
+                [
+                    "darkcarturn",
+                    {
+                        "frames": 84,
+                        "modalities": []
+                    },
+                    0.6
+                ]
+            ]
+        },
+        "Group5_swap_and_random_missing_SubGroup3": {
+            "missing_function": "swap_and_random_missing",
+            "sequences": [
+                [
+                    "1strowrightdrillmaster",
+                    {
+                        "frames": 3817,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftmirrorside",
+                    {
+                        "frames": 1732,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "advancedredcup",
+                    {
+                        "frames": 1411,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "leftexcersicebookyellow",
+                    {
+                        "frames": 1102,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "pingpingpad3",
+                    {
+                        "frames": 808,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "ab_girlchoosesbike",
+                    {
+                        "frames": 696,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "rightcar-chongT",
+                    {
+                        "frames": 561,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "umbrellabyboy",
+                    {
+                        "frames": 475,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "manfromtoilet",
+                    {
+                        "frames": 408,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "rightwaiter1_quezhen",
+                    {
+                        "frames": 308,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "rightblkboystand",
+                    {
+                        "frames": 279,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "bikeboywithumbrella",
+                    {
+                        "frames": 220,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "foamatgirl`srighthand",
+                    {
+                        "frames": 193,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "redboygoright",
+                    {
+                        "frames": 150,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "mantostartcar",
+                    {
+                        "frames": 123,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "whitefardown",
+                    {
+                        "frames": 67,
+                        "modalities": []
+                    },
+                    0.9
+                ],
+                [
+                    "blackdown",
+                    {
+                        "frames": 62,
+                        "modalities": []
+                    },
+                    0.9
+                ]
+            ]
+        }
+    }
+}
