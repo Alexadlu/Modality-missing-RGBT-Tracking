@@ -6,9 +6,13 @@ To provide a comprehensive evaluation platform, we construct several high-qualit
 Extensive experiments on three modality-missing benchmark datasets show that our method achieves significant performance improvements compared with state-of-the-art methods.
 
 ## Modality-missing Dataset
+<i class="fas fa-newspaper"></i> Modality-missing Dataset is released
 
 <img src="./imgs/modality_miss_pattern_fig1.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
-<img src="./imgs/miss_pattersn.drawio.pdf.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
-We will release the dataset and model code step-by-step.
 
-Modality-missing Dataset is released
+<img src="./imgs/miss_pattersn.drawio.pdf.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
+
+
+
+## Invertible Prompt Learning Model
+Coming Soon...
