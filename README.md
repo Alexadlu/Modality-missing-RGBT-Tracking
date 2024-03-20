@@ -7,8 +7,8 @@ Extensive experiments on three modality-missing benchmark datasets show that our
 
 ## Modality-missing Dataset
 
-<img src="./imgs/modality_miss_pattern_fig1.drawio_00.png" alt="Miss patterns" width="100%" height="auto">
-<img src="./imgs/miss_pattersn.drawio.pdf.drawio_00.png" alt="Miss patterns" width="100%" height="auto">
+<img src="./imgs/modality_miss_pattern_fig1.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
+<img src="./imgs/miss_pattersn.drawio.pdf.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
 We will release the dataset and model code step-by-step.
 
 Modality-missing Dataset is released
