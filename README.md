@@ -7,7 +7,8 @@ Extensive experiments on three modality-missing benchmark datasets show that our
 
 ## Modality-missing Dataset
 <img src="./imgs/miss_ratios_staitcs.png" alt="Miss Ratio" width="40%" height="auto">
-
+<img src="./imgs/modality_miss_pattern_fig1.drawio" alt="Miss patterns" width="40%" height="auto">
+<!-- <img src="./imgs/miss_ratios_staitcs.png" alt="Miss Ratio" width="40%" height="auto"> -->
 We will release the dataset and model code step-by-step.
 
 Modality-missing Dataset is released
