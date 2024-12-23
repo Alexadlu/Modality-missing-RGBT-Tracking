@@ -17,4 +17,8 @@ Modality-missing dataset is released
 
 
 ## Invertible Prompt Learning Model
-[Code Link]
+
+### News :sparkles: 
+IPL code is released
+<img src="./imgs/miss_pattersn.drawio.pdf.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
+[IPL_model Link](https://drive.google.com/file/d/1JW2uj7l5wmfIgAbANaJMYZYxqXAh443d/view?usp=drive_link)
