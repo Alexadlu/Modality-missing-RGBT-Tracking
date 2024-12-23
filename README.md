@@ -8,8 +8,7 @@ Current RGBT tracking research relies on the complete multi-modality input, but 
 
 <img src="./imgs/image.png" alt="Miss patterns" width="80%" height="auto">
 
-[IPL_model Link](https://drive.google.com/file/d/1JW2uj7l5wmfIgAbANaJMYZYxqXAh443d/view?usp=drive_link)
-
+[Checkpoint Link](https://drive.google.com/file/d/1JW2uj7l5wmfIgAbANaJMYZYxqXAh443d/view?usp=drive_link)
 
 ## Modality-missing Dataset 
 ### News :sparkles:  Modality-missing dataset is released
