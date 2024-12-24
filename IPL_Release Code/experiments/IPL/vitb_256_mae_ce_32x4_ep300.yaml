@@ -1,0 +1,76 @@
+DATA:
+  MAX_SAMPLE_INTERVAL: 200
+  MEAN:
+  - 0.485
+  - 0.456
+  - 0.406
+  SEARCH:
+    CENTER_JITTER: 3
+    FACTOR: 4.0
+    SCALE_JITTER: 0.25
+    SIZE: 256
+    NUMBER: 1
+  STD:
+  - 0.229
+  - 0.224
+  - 0.225
+  TEMPLATE:
+    CENTER_JITTER: 0
+    FACTOR: 2.0
+    SCALE_JITTER: 0
+    SIZE: 128
+
+  TRAIN:
+    DATASETS_NAME:
+    - LasHeR_trainingSet
+    DATASETS_RATIO:
+    - 1
+    SAMPLE_PER_EPOCH: 60000
+  VAL:
+    DATASETS_NAME:
+    - LasHeR_testingSet
+    DATASETS_RATIO:
+    - 1
+    SAMPLE_PER_EPOCH: 6000
+MODEL:
+  PRETRAIN_FILE: "../train_stage1/OSTrack_ep0300.pth.tar.pth.pth.tar" # stage1 for OSTrack_manet train
+  # PRETRAIN_FILE: "../train_stage2/OSTrack_manet_wo_IPL.pth.pth.tar" # stage2 for IPL train
+  # PRETRAIN_FILE: "../evluation_model/OSTrack_manet_w_IPL.pth.tar" # final evluation model
+  EXTRA_MERGER: False
+  RETURN_INTER: False
+  BACKBONE:
+    TYPE: vit_base_patch16_224_ce
+    STRIDE: 16
+    CE_LOC: [3, 6, 9]
+    CE_KEEP_RATIO: [0.7, 0.7, 0.7]
+    CE_TEMPLATE_RANGE: 'CTR_POINT'  # choose between ALL, CTR_POINT, CTR_REC, GT_BOX
+  HEAD:
+    TYPE: CENTER
+    NUM_CHANNELS: 256
+TRAIN:
+  BACKBONE_MULTIPLIER: 0.1
+  DROP_PATH_RATE: 0.1
+  CE_START_EPOCH: 4   # 1/15
+  CE_WARM_EPOCH: 16  # 4/15
+  BATCH_SIZE: 18 #12
+  EPOCH: 60
+  GIOU_WEIGHT: 2.0
+  L1_WEIGHT: 5.0
+  GRAD_CLIP_NORM: 0.1
+  LR: 0.00001  
+  LR_DROP_EPOCH: 48   # 4/5
+  NUM_WORKER: 10
+  OPTIMIZER: ADAMW
+  PRINT_INTERVAL: 50
+  SCHEDULER:
+    TYPE: step
+    DECAY_RATE: 0.1
+  VAL_EPOCH_INTERVAL: 5
+  WEIGHT_DECAY: 0.0001
+  AMP: False
+TEST:
+  EPOCH: 55
+  SEARCH_FACTOR: 4.0
+  SEARCH_SIZE: 256
+  TEMPLATE_FACTOR: 2.0
+  TEMPLATE_SIZE: 128
