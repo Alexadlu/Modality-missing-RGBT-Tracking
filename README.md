@@ -34,5 +34,6 @@ pages = {1--21}
 ```
 Contact: adlu_ah@foxmail.com
 
-### This repo is based on [OSTrack](https://github.com/botaoye/OSTrack), helps us to quickly implement our ideas.
+## Acknowledgment
+This repo is based on [OSTrack](https://github.com/botaoye/OSTrack), helps us to quickly implement our ideas.
 
